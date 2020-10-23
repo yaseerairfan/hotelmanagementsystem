@@ -8,6 +8,7 @@
 
 <html>
 	<head>
+		<!-- COMMENT ADDED -->
 		<meta name="description" content="htmltags/css">
 		<meta name="keywords" content="css">
 		<meta charset="utf-8">
